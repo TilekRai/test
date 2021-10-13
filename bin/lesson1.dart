@@ -66,7 +66,6 @@ void main(List<String> arguments) {
   int v = 3;
   int n = g * v;
   print(n);
-
   int x = 1;
   var y = true;
 
@@ -90,5 +89,4 @@ void main(List<String> arguments) {
 
   List t = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89];
   List k = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13];
-  t.((item))
 }
